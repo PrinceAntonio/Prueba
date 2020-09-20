@@ -1,0 +1,56 @@
+.PrimerClase{
+	text-align: center;
+	font-style: italic;
+}
+
+.SegundaClase{
+	text-align: right;
+	font-family: Verdana;
+}
+
+#identificador{
+	text-decoration: underline;
+}
+
+h1{
+	color: red; 
+	font-size: 200%;
+}
+
+p{
+	border-style: insert;
+	margin: 25px 25px 25px 25px;
+	padding:  25px 25px 25px 25px;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+a:hover{
+  color: hotpink;
+}
+
+ul{
+	list-style-type: circle;
+}
+
+ol{
+	list-style-type: upper-roman;
+}
+
+table{
+	background-color: purple;
+}
+
+th{
+	color: gray;
+}
+
+img{
+	float: right;
+}
+
+body{
+	background-color: #FF33D7;
+}
